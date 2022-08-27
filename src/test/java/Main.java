@@ -7,7 +7,10 @@ public class Main {
         WebDriver a = null;
         
         
-        from remot 
+        //from remot I dont know what is going on here
+
+
+
 
     }
 
